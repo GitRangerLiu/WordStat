@@ -1,0 +1,169 @@
+1How to Read a Scientific Article
+Mary Purugganan, Ph.D.     maryp@rice.edu
+Jan Hewitt, Ph.D.    jhewitt@rice.edu
+Cain Project in Engineering and Professional Communication
+Reading a scientific article is a complex task.  The worst way to approach this task is to
+treat it like the reading of a textbook¡ªreading from title to literature cited, digesting
+every word along the way without any reflection or criticism.  Rather, you should begin
+by skimming the article to identify its structure and features.  As you read, look for the
+author¡¯s main points.  Generate questions before, during, and after reading.  Draw
+inferences based on your own experiences and knowledge.  And to really improve
+understanding and recall, take notes as you read.   This handout discusses each of these
+strategies in more detail.
+1.  Skim the article and identify its structure.
+Most journals use a conventional IMRD structure:  An abstract followed by Introduction,
+Methods, Results, and Discussion.  Each of these sections normally contains easily
+recognized conventional features, and if you read with an anticipation of these features,
+you will read an article more quickly and comprehend more.
+Features of Abstracts
+Abstracts usually contain four kinds of information:
+? purpose or rationale of study (why they did it)
+? methodology (how they did it)
+? results (what they found)
+? conclusion (what it means)
+Most scientists read the abstract first.  Others¡ªespecially experts in the field¡ªskip right
+from the title to the visuals because the visuals, in many cases, tell the reader what kinds
+of experiments were done and what results were obtained.  You should probably begin
+reading a paper by reading the abstract carefully and noting the four kinds of information
+outlined above.   Then move first to the visuals and then to the rest of the paper.
+Features of Introductions
+Introductions serve two purposes:  creating readers¡¯ interest in the subject and providing
+them with enough information to understand the article.  Generally, introductions
+accomplish this by leading readers from broad information (what is known about the
+topic) to more specific information (what is not known) to a focal point (what question
+the authors asked and answered).  Thus, authors describe previous work that led to
+current understanding of the topic (the broad) and then situate their work (the specific)
+within the field.
+2Features of Methods
+The Methods section tells the reader what experiments were done to answer the question
+stated in the Introduction.  Methods are often difficult to read, especially for graduate
+students, because of technical language and a level of detail sufficient for another trained
+scientist to repeat the experiments.  However, you can more fully understand the design
+of the experiments and evaluate their validity by reading the Methods section carefully.
+Features of Results and Discussion
+The Results section contains results¡ªstatements of what was found, and reference to the
+data shown in visuals (figures and tables).  Normally, authors do not include information
+that would need to be referenced, such as comparison to others¡¯ results.  Instead, that
+material is placed in the Discussion¡ªplacing the work in context of the broader field.
+The Discussion also functions to provide a clear answer to the question posed in the
+Introduction and to explain how the results support that conclusion.
+Atypical Structure
+Some articles you read will deviate from the conventional content of IMRD sections.  For
+instance, Letters to Nature appear to begin with an abstract, followed by the body of the
+article.  Upon reading, however, you will see that the ¡°abstract¡± is a summary of the work
+filled with extensive introduction (for the purpose of catching the attention of a wide
+audience), and the next paragraph begins a description of the experiments.
+Therefore, when you begin to read an article for the first time, skim the article to analyze
+the document as a whole.  Are the sections labeled with headings that identify the
+structure?  If not, note what the structure is.  Decide which sections contain the material
+most essential to your understanding of the article.   Then decide the order in which you
+will read the sections.
+2.  Distinguish main points.
+Because articles contain so much information, it may be difficult to distinguish the main
+points of an article from the subordinate points.  Fortunately, there are many indicators of
+the author¡¯s main points:
+Document level
+? Title
+? Abstract
+? Keywords
+? visuals (especially figure and
+table titles)
+? first sentence or the last 1-2
+sentences of the Introduction
+Paragraph level:  words or phrases to look for
+? surprising
+? unexpected
+? in contrast with previous work
+? has seldom been addressed
+3? we hypothesize that
+? we propose
+? we introduce
+? we develop
+? the data suggest
+3. Generate questions and be aware of your understanding
+Reading is an active task.  Before and during your reading, ask yourself these questions:
+? Who are these authors?  What journal is this?  Might I question the credibility of
+the work?
+? Have I taken the time to understand all the terminology?
+? Have I gone back to read an article or review that would help me understand this
+work better?
+? Am I spending too much time reading the less important parts of this article?
+? Is there someone I can talk to about confusing parts of this article?
+After reading, ask yourself these questions:
+? What specific problem does this research address?  Why is it important?
+? Is the method used a good one?  The best one?
+? What are the specific findings?  Am I able to summarize them in one or two
+sentences?
+? Are the findings supported by persuasive evidence?
+? Is there an alternative interpretation of the data that the author did not address?
+? How are the findings unique/new/unusual or supportive of other work in the field?
+? How do these results relate to the work I¡¯m interested in?  To other work I¡¯ve read
+about?
+? What are some of the specific applications of the ideas presented here?  What are
+some further experiments that would answer remaining questions?
+4. Draw inferences.
+Not everything that you learn from an article is stated explicitly.  As you read, rely on
+your prior knowledge and world experience, as well as the background provided in the
+article, to draw inferences from the material.  Research has shown that readers who
+actively draw inferences are better able to understand and recall information.
+As an example, in the box below is an excerpt from the Introduction of an article in the
+journal Biochemistry (Ballestar et al., 2000).  The comments in italics are questions and
+inferences that might be drawn by a student reader.
+Rett Syndrome is a childhood neurodevelopmental disorder and one of the most common
+causes of mental retardation in females Comment:  Hmmm¡­must be related to a gene on
+the X-chromosome, with an incidence of 1 in 10000-15000.  Comment:  How common is
+that?  Not too likely to happen to me, but there must be several such children born in
+Houston every year.  Rett syndrome patients are characterized by a period of normal
+growth and development (6-18 months) followed by regression with loss of speech and
+purposeful hand use.  Comment:  What happens?  Something must be triggered or
+activated at late infancy.  Patients also develop seizures, autism, and ataxia.  After initial
+4regression, the condition stabilizes and patients survive into adulthood.  Studies of
+familial cases provided evidence that Rett is caused by X-linked dominant mutations in a
+gene subject to X-chromosome inactivation.  Recently, a number of mutations in the gene
+encoding the methyl-CpG binding transcriptional repressor MeCP2 have been associated
+with Rett Syndrome.  Comment: MeCP2 mutations probably cause Rett Syndrome.  This
+must be an important master-regulator to affect so many processes in the brain.  I
+wonder what they know about it¡­
+5.  Take notes as you read.
+Effective readers take notes¡ªit improves recall and comprehension. You may think
+you¡¯ll remember everything you read in researching class assignments, professional
+papers, proposals, or your thesis, but details will slip away.  Develop a template for
+recording notes on articles you read, or adapt the template below for use.  As you
+accumulate a large collection of articles, this template will help you distinguish articles
+and quickly locate the correct reference for your own writing. The time spent filling out
+the form will save you hours of rereading when you write a Background, Related Work,
+or a Literature Review section.
+Template for Taking Notes on Research Articles:
+Easy access for later use
+Whenever you read an article, pertinent book chapter, or research on the web, use the
+following format (or something similar) to make an electronic record of your notes for
+later easy access. Put quotation marks around any exact wording you write down so that
+you can avoid accidental plagiarism when you later cite the article.
+Complete citation.  Author(s), Date of publication, Title (book or article), Journal,
+Volume #, Issue #, pages:
+If web access:  url; date accessed
+Key Words:
+General subject:
+Specific subject:
+5Hypothesis:
+Methodology:
+Result(s):
+Summary of key points:
+Context (how this article relates to other work in the field; how it ties in with key issues
+and findings by others, including yourself):
+Significance (to the field; in relation to your own work):
+Important Figures and/or Tables (brief description; page number):
+6Cited References to follow up on (cite those obviously related to your topic AND any
+papers frequently cited by others because those works may well prove to be essential as
+you develop your own work):
+Other Comments:
+References
+Ballestar, E., Yusufzai, T.M., and Wolffe, A.P.  (2000) Effects of Rett Syndrome
+Mutations of the Methyl-CpG Binding Domain of the Transcriptional Repressor MeCP2
+on Selectivity for Association with Methylated DNA.  Biochemistry 31, 7100-7106.
+Burnett, R. (2001) Technical Communication. 5th ed. San Antonio: Harcourt College
+Publishers.
+Zeiger, M. (2000) Essentials of Writing Biomedical Research Papers. 2nd Ed. St. Louis:
+McGraw-Hill.
+Supported by the Cain Project for Engineering and Professional Communication
+Rice University, 2004
