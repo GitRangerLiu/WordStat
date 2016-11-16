@@ -34,7 +34,7 @@ public class FreqCal {
 		Map<String, Integer> map = new TreeMap<>();
 		String wordStr = getWordString();
 		//Use non-word to split
-		String regex = "[(. )(; )(, )(\n)?\"#:1234567890]";
+		String regex = "[(. )(; )(, )(\n)?\"#:1234567890\\[!-]";
 		String[] strArr = wordStr.split(regex);
 		int length = strArr.length;
 		for(int i = 0; i < length; i++) {

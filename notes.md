@@ -81,6 +81,15 @@ public
 
 
 
+
+
+
+### Allow several pdf file for input
+`File[] listFiles()` : Returns an array of abstract pathnames denoting the files in the directory denoted by this abstract pathname.
+
+append the contents of different pdf files to only one txt file. If there exists large pdf file, a Java `OutOfMemoryError` will happen.
+
+
 ### Call dictionary API
 public 
 
